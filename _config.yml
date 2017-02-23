@@ -36,13 +36,18 @@ seo: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  # home: /
+  about: /about
+  essay: /categories/日志
+  write: /categories/存档
+  project: /categories/项目
+  #management: /categories/管理
+  industry: /categories/业界资讯
   #categories: /categories
-  #about: /about
-  archives: /archives
-  tags: /tags
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  #archives: /archives
+  #tags: /tags
+  commonweal: /404.html
+  #cloudmarts.org: cloudmarts.org
 
 
 # Enable/Disable menu icons.
@@ -61,8 +66,11 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
-
+  essay: pencil
+  write: server
+  project: mortar-board
+  industry: subway
+  management: university
 
 
 # ---------------------------------------------------------------
@@ -70,9 +78,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -146,7 +154,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
+  #Twitter: twitter
   Weibo: weibo
 
 
@@ -227,6 +235,8 @@ post_meta:
   created_at: true
   updated_at: false
   categories: true
+
+display_updated: true
 
 # Post wordcount display settings
 # Dependencies: https://github.com/willin/hexo-wordcount

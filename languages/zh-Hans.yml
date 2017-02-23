@@ -3,6 +3,11 @@ title:
   category: 分类
   tag: 标签
   schedule: 日程表
+  essay: 日志
+  write: 整理
+  project: 项目
+  management: 管理
+  industry: 业界资讯
 
 author: 博主
 
@@ -16,6 +21,11 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
+  essay: 日志
+  write: 存档
+  project: 项目
+  management: 管理
+  industry: 业界资讯
 
 sidebar:
   overview: 站点概览
@@ -26,6 +36,7 @@ post:
   modified: 更新于
   sticky: 置顶
   posted: 发表于
+  updated: 更新于
   in: 分类于
   read_more: 阅读全文
   untitled: 未命名
@@ -39,7 +50,7 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
+  powered: "基于 %s 构建"
   theme: 主题
 
 counter:

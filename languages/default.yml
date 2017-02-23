@@ -3,6 +3,11 @@ title:
   category: Category
   tag: Tag
   schedule: Schedule
+  essay: Essay
+  write: Write
+  project: Project
+  management: Management
+  industry: Industry
 
 author: Author
 
@@ -15,7 +20,12 @@ menu:
   search: Search
   schedule: Schedule
   sitemap: Sitemap
-  commonweal: Commonweal 404
+  commonweal: commonweal404
+  essay: Essay
+  write: Write
+  project: Project
+  management: Management
+  industry: Industry
 
 sidebar:
   overview: Overview
@@ -26,6 +36,7 @@ post:
   modified: Post modified
   sticky: Sticky
   posted: Posted on
+  updated: Updated on
   in: In
   more: more
   read_more: Read more
