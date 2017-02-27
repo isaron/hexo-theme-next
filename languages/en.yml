@@ -8,6 +8,7 @@ title:
   project: Project
   management: Management
   industry: Industry
+  tfdocs: TensorFlow Docs
 
 author: Author
 
@@ -26,6 +27,7 @@ menu:
   project: Project
   management: Management
   industry: Industry
+  tfdocs: TensorFlow Docs
 
 sidebar:
   overview: Overview

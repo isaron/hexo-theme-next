@@ -48,6 +48,7 @@ menu:
   #tags: /tags
   commonweal: /404.html
   #cloudmarts.org: cloudmarts.org
+  tfdocs: https://huangch.me/tfdocs
 
 
 # Enable/Disable menu icons.
@@ -71,6 +72,7 @@ menu_icons:
   project: mortar-board
   industry: subway
   management: university
+  tfdocs: book
 
 
 # ---------------------------------------------------------------
@@ -349,9 +351,9 @@ mathjax:
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: 13463190
+  admin_nickname: 博主
 
 
 # Facebook SDK Support.

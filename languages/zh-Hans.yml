@@ -8,6 +8,7 @@ title:
   project: 项目
   management: 管理
   industry: 业界资讯
+  tfdocs: TensorFlow官方文档翻译
 
 author: 博主
 
@@ -26,6 +27,7 @@ menu:
   project: 项目
   management: 管理
   industry: 业界资讯
+  tfdocs: TensorFlow官方文档翻译
 
 sidebar:
   overview: 站点概览
